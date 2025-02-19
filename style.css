@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+p{
+    color: darkblue;
+}
+a{
+    color: black;
+}
+img{
+    border: 10px double blue;
+    border-radius: 10px;
+}
+header a{
+    border: red solid 3px;
+    border-radius: 10px;
+    text-decoration: none;  
+    margin: 5px;
+}
+
+header {
+    margin: 20px;
+}
+
+header img {
+    border: 2px black solid;
+}
+
+nav a{
+    border: navy solid 2px;
+    border-radius: 5px;
+    color: black;
+    text-decoration: none;
+    padding: 2px;
+    margin: 20px;
+}
+nav{
+    margin: 7px;
+}
+
+.crazy
+{
+    padding: 10px;
+}
+
+.sad{
+    text-decoration: none;
+    border: 2px red solid ;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
